@@ -228,4 +228,29 @@ error: src refspec main does not match any
 [31merror: failed to push some refs to 'https://github.com/llyu0966/RepoMeta.git'
 [m[1m[7m%[27m[1m[0m                                                                                ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/RepoMeta[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro RepoMeta % [K[?2004hgit push -u origin main -f  [19Dremote             [13D add origin https://github.com/llyu0966/RepoMeta.git[K[?2004l
 error: remote origin already exists.
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/RepoMeta[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro RepoMeta % [K[?2004hgit remote add origin https://github.com/llyu0966/RepoMeta.git[K[A[22Cpush -u origin main -f[K[1B[K[A[62C  [19Dremote             [13D add origin https://github.com/llyu0966/RepoMeta.git[K[A[22Ccommit -m "Added log file"[K[1B[K[A[66C[26Dremote add origin https://github.com/llyu0966/RepoMeta.git[K[A[29C[K[1B[K[A[46Cpush -u origin main -f[22Dremote add origin https://github.com/llyu0966/RepoMeta.git[K[A[18C[K[1B[K[A[36Cgit remote add origin https://github.com/llyu0966/RepoMeta.git[K[A[22Cpush -u origin main -f[K[1B[K[A[62C  [19Dremote             [13D add origin https://github.com/llyu0966/RepoMeta.git[Kq [A[22Ccommit -m "Added log file"[K[1B[K[A[66C[26Dstatus                    [20Dadd . statusinit  [8Dls -la  cd RepoMeta[11Dmv session1.log RepoMeta/                     m  [?2004l[1B[1m[7m%[27m[1m[0m                                                                                ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/RepoMeta[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro RepoMeta % [K[?2004h
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/RepoMeta[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro RepoMeta % [K[?2004hgit remote add origin https://github.com/llyu0966/RepoMeta.git[K[A[22Cpush -u origin main -f[K[1B[K[A[62C  [19Dremote             [13D add origin https://github.com/llyu0966/RepoMeta.git[K[A[22Ccommit -m "Added log file"[K[1B[K[A[66C[26Dremote add origin https://github.com/llyu0966/RepoMeta.git[K[A[29C[K[1B[K[A[46Cpush -u origin main -f[22Dremote add origin https://github.com/llyu0966/RepoMeta.git[K[A[18C[K[1B[K[A[36Cgit remote add origin https://github.com/llyu0966/RepoMeta.git[K[A[22Cpush -u origin main -f[K[1B[K[A[62C  [19Dremote             [13D add origin https://github.com/llyu0966/RepoMeta.git[Kq [A[22Ccommit -m "Added log file"[K[1B[K[A[66C[26Dstatus                    [20Dadd . statusinit  [8Dls -la  cd RepoMeta[11Dmv session1.log RepoMeta/                     m  [?2004l[1B[1m[7m%[27m[1m[0m                                                                                ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/RepoMeta[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro RepoMeta % [K[?2004hggti g  ggit status[?2004l
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   session1.log[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.DS_Store[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/RepoMeta[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro RepoMeta % [K[?2004hggit add.   d .[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/RepoMeta[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro RepoMeta % [K[?2004hggit commit -m "modified sees    log fir ld  le"[?2004l
+[master 65efc53] modified log file
+ 2 files changed, 48 insertions(+), 1 deletion(-)
+ create mode 100644 .DS_Store
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/RepoMeta[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro RepoMeta % [K[?2004hggit push -u origin main[?2004l
+error: src refspec main does not match any
+[31merror: failed to push some refs to 'https://github.com/llyu0966/RepoMeta.git'
+[m[1m[7m%[27m[1m[0m                                                                                ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/RepoMeta[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro RepoMeta % [K[?2004heexit[?2004l
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done on Mon Mar 22 00:56:51 2021
