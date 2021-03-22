@@ -1,0 +1,184 @@
+Script started on Mon Mar 22 00:31:45 2021
+Restored session: Mon Mar 22 00:27:13 EDT 2021
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro desktop % [K[?2004hccd ~/desktop[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro desktop % [K[?2004hmmkdir Repo1[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro desktop % [K[?2004hccd Repo1[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/Repo1[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro Repo1 % [K[?2004hvvi HE eo lloWork ld.java[?2004l
+[?1049h[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[22;2t[22;1t[27m[29m[m[H[2J[?25l[24;1H"HelloWorld.java" [New File][2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[2;1H[94m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [1;1H[?25h[?25l[m[24;1H[1m-- INSERT --[m[24;13H[K[1;1H[?25h[?25lc[?25h[?25ll[?25h[?25la[?25h[?25ls[?25h[?25ls[?25h[?25l [?25h[?25lH[?25h[?25le[?25h[?25ll[?25h[?25ll[?25h[?25lo[?25h[?25lW[?25h[?25lo[?25h[?25lr[?25h[?25ll[?25h[?25ld[?25h[?25l{[?25h[?25l[2;1H[K[2;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[1;4H[?25lpclass HelloWorld{p[?25h[?25luclass HelloWorld{pu[?25h[?25lbclass HelloWorld{pub[?25h[?25llclass HelloWorld{publ[?25h[?25liclass HelloWorld{publi[?25h[?25lcclass HelloWorld{[1;7H[?25h[?25l class HelloWorld{[1;8H[?25hclass HelloWorld[?25l {[?25h{[?25l[2;23r[2;1H[L[1;24r[2;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25lP[?25h[?25lu[?25h[?25lb[?25h[?25ll[?25h[?25li[?25h[?25lc[?25h[?25l [?25h[?25ls[?25h[?25lt[?25h[?25la[?25h[?25lt[?25h[?25li[?25h[?25lc[?25h[?25l [?25h[?25lv[?25h[?25lo[?25h[?25ld[?25h[?25li[?25h[?25l[2;21H[K[2;21H[?25h[?25l[2;20H[K[2;20H[?25h[?25li[?25h[?25ld[?25h[?25l [?25h[?25lm[?25h[?25la[?25h[?25li[?25h[?25ln[?25h[?25l [?25h[?25l([?25h[?25l[2;28H[K[2;28H[?25h[?25l[?25h[?25l([?25h[?25lS[?25h[?25lt[?25h[?25lr[?25h[?25li[?25h[?25ln[?25h[?25lg[?25h[?25lublic static void main(String[2;33H[K[2;4H[?25h[?25lpublic static void main(String   p[?25hublic static void main(String[?25l [?25h[?25l[[?25h[?25l[106m[][?25h[?25l[m[] [?25h[?25la[?25h[?25lr[?25h[?25lg[?25h[?25ls[?25h[?25l[2;27H[106m([14C)[?25h[?25l[m[2;27H([14C) [?25h[?25l{[?25h[?25l[3;23r[3;1H[L[1;24r[3;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25lS[?25h[?25ly[?25h[?25ls[?25h[?25lt[?25h[?25le[?25h[?25lm[?25h[?25l.[?25h[?25lo[?25h[?25lu[?25h[?25lt[?25h[?25l.[?25h[?25lp[?25h[?25lr[?25h[?25li[?25h[?25ln[?25h[?25lt[?25h[?25ll[?25h[?25ln[?25h[?25l([?25h[?25l"[?25h[?25lH[?25h[?25le[?25h[?25ll[?25h[?25ll[?25h[?25lo[?25h[?25l,[?25h[?25l [?25h[?25lW[?25h[?25lo[?25h[?25lr[?25h[?25ll[?25h[?25ld[?25h[?25l;[?25h[?25l[3;40H[K[3;40H[?25h[?25l"[?25h[?25l[3;26H[106m([14C)[?25h[?25l[m[3;26H([14C);[?25h[?25l[4;23r[4;1H[L[1;24r[4;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l[2;44H[106m{[4;4H}[?25h[?25l[5;23r[m[5;1H[L[1;24r[2;44H{[4;4H}
+[?25h[?25l[1;25H[106m{[5;1H}[?25h[m[24;1H[K[5;1H[?25l[?25h[?25l[24;1H:[?25hwq[?25l[?2004l[>4;m"HelloWorld.java" [New] 6L, 125C written[23;2t[23;1t
+[?2004l[?1l>[?25h[>4;m[?1049l[1m[7m%[27m[1m[0m                                                                                ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/Repo1[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro Repo1 % [K[?2004hjjaj  jjavac HelloWorld.java[1m [0m[0m [?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/Repo1[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro Repo1 % [K[?2004hjjava HelloWorld. [?2004l
+Hello, World
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/Repo1[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro Repo1 % [K[?2004hggit init[?2004l
+[33mhint: Using 'master' as the name for the initial branch. This default branch name[m
+[33mhint: is subject to change. To configure the initial branch name to use in all[m
+[33mhint: of your new repositories, which will suppress this warning, call:[m
+[33mhint: [m
+[33mhint: 	git config --global init.defaultBranch <name>[m
+[33mhint: [m
+[33mhint: Names commonly chosen instead of 'master' are 'main', 'trunk' and[m
+[33mhint: 'development'. The just-created branch can be renamed via this command:[m
+[33mhint: [m
+[33mhint: 	git branch -m <name>[m
+Initialized empty Git repository in /Users/linliyu/Desktop/Repo1/.git/
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/Repo1[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro Repo1 % [K[?2004hggit status[?2004l
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mHelloWorld.class[m
+	[31mHelloWorld.java[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/Repo1[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro Repo1 % [K[?2004hggit add .[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/Repo1[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro Repo1 % [K[?2004hggit state us[?2004l
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	[32mnew file:   HelloWorld.class[m
+	[32mnew file:   HelloWorld.java[m
+
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/Repo1[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro Repo1 % [K[?2004hvvi HelloWorld.java[?2004l
+[?1049h[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[22;2t[22;1t[27m[29m[m[H[2J[?25l[24;1H"HelloWorld.java" 6L, 125C[2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[1;1Hpublic class HelloWorld {
+   public static void main(String [] args) {[3;8HSystem.out.println("Hello, World");
+   }
+}
+
+[94m~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [1;1H[?25h[?25l[m[24;1H[1m-- INSERT --[m[24;13H[K[1;1H[?25h
+[1;1H[?25l[2;23r[2;1H[L[1;24r[1;1H[K[2;1Hpublic class HelloWorld {[?25h[?25l[3;23r[3;1H[L[1;24r[2;1H[K[3;1Hpublic class HelloWorld {[?25h[2;1H[1;1H[?25l[2;23r[2;1H[L[1;24r[1;1Himport java.time.format.DateTimeFormatter;
+import java.time.Lo[24;11H[1m(paste) --[2;20H[?25h[?25l[mcalDateTime;    [?25h
+[?25l[4;25H[106m{[8;1H}[4;26H[?25h[?25l[m{[5;35H[106m[][m
+
+
+}[5;36H[?25h[?25l[][6;36H[?25h[?25l[5;44H[106m{[7;4H}[?25h[?25l[m[5;44H{[7;4H}[6;36H[?25horld[?25l[6;26H[106m([14C)[?25h[?25l)[?25h[?25l[m[6;26H([14C);[?25h[?25l[7;23r[7;1H[L[1;24r[24;11H[1m--a[m[24;13H[K[7;1H[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25lS[?25h[?25l[7;8H[K[7;8H[?25h[?25l[?25h[?25lS[?25h[?25l[7;7H[K[7;7H[?25h[?25l[?25h[?25l [?25h[?25l[?25h[?25l[?25h[?25l[?25h[?25l[?25h[?25l[?25h[?25l[?25h[?25l[8C[?25h[?25l[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25lS[?25h[?25ly[?25h[?25ls[?25h[?25lt[?25h[?25le[?25h[?25lm[?25h[?25l.[?25h[?25lo[?25h[?25lu[?25h[?25lt[?25h[?25l.[?25h[?25lp[?25h[?25lr[?25h[?25li[?25h[?25ln[?25h[?25lt[?25h[?25ll[?25h[?25ln[?25h[?25l([?25h[?25l"[?25h[?25ls[?25h[?25l[7;28H[K[7;28H[?25h[?25lT[?25h[?25lo[?25h[?25ld[?25h[?25la[?25h[?25ly[?25h[?25l'[?25h[?25ls[?25h[?25l [?25h[?25ld[?25h[?25la[?25h[?25lt[?25h[?25la[?25h[?25l[7;39H[K[7;39H[?25h[?25le[?25h[?25l [?25h[?25l date [?25h[?25l date [?25h[?25l date [?25h[?25l date [?25h[?25l date [?25h[?25l date [?25h[?25l date [?25h[?25lC date[?25h[?25lu date[?25h[?25lr date[?25h[?25lr date[?25h[?25le date[?25h[?25ln date[?25h[?25lt date[?25h date[?25l [?25h[?25la[?25h[?25ln[?25h[?25ld[?25h[?25l [?25h[?25lT[?25h[?25li[?25h[?25lm[?25h[?25le[?25h[?25l [?25h[?25l[?25h[?25l:[?25h[?25late and Time: [7;36H[?25h[?25lDate and Time:[7;37H[?25hate and Time:[?25l"[?25h[?25l[7;26H[106m([24C)[?25h[?25l[m[7;26H([24C);[?25h[?25l[8;23r[8;1H[L[1;24r[8;1H[?25h[?25l[8C[?25h[?25l[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25lDateTimeFormatter dtf = DateTimeFormatter.ofPatt[?25h[?25l[9;23r[9;1H[2L[1;24r[8;56Hern("yyyy/MM/dd HH:mm:ss""[9;1H);
+   LocalDateTime now = Loca[24;11H[1m(paste) --[10;28H[?25h[?25l[11;23r[m[11;1H[L[1;24r[10;28HlDateTime.now();
+   System.out.println(dtf.format(now)); [?25h[?25l [?25h[?25l[11;22H[106m([15C)[?25h[?25l[?25h[?25l[m[11;22H([10C[106m([mnow[106m)[m)[?25h[?25l(now)[?25h[?25l[106m([mnow[106m)[?25h[?25l[?25h[?25l[m(now)[?25h[?25l[106m([15C)[11;23H[?25h[?25l[?25h[?25l[m([15C)[11;21H[?25h[10;4H[8;4H[10;4H[?25l LocalDateTime now = LocalDateTime.now();    [?25h[?25l LocalDateTime now = LocalDateTime.now();     [?25h[?25l LocalDateTime now = LocalDateTime.now();[10;7H[?25h[?25l LocalDateTime now = LocalDateTime.now();[10;8H[?25h[11;8H[?25l System.out.println(dtf.format(now));    [?25h[?25l System.out.println(dtf.format(now));     [?25h[?25l System.out.println(dtf.format(now));[11;7H[?25h[?25l System.out.println(dtf.format(now));[11;8H[?25h[10;8H[8;8HDateTimeFormatter dtf = DateTimeFormatter.ofPatter[?25ln[106m([m[20C""[9;1H[106m)[8;59H[?25h[?25l[m[21C""[9;1H[106m)[8;60H[?25h[?25l[m([20C""[9;1H)[8;61H[?25hyyyy/MM/dd HH:mm:ss[?25l[8;59H[106m([m[20C""[9;1H[106m)[?25h[?25l)[?25h[?25l[?25h[?25l[8;80H))[m[9;1H; [8;80H[?25h[?25l""[9;1H[106m)[m;[?25h[?25l[8;59H([20C""[9;1H)[8;80H[?25h[?25l[8;59H[106m([m[20C""[9;1H[106m)[?25h[?25l[m[8;59H([20C""[9;1H)[8;80H[?25h[?25l[8;59H[106m([m[20C""[9;1H[106m)[?25h[?25l[m[8;59H([20C""[9;1H)[8;80H[?25h[?25l[8;59H[106m([m[20C""[9;1H[106m)[?25h[?25l[m\[106m)[m;[?25h[?25l[106m)[m; [?25h[?25l[8;80H[106m))[m[9;1H; [8;80H[?25h[?25l""[9;1H[106m)[m;[?25h[?25l[8;80H[106m))[m[9;1H; [8;80H[?25h[?25l''[9;1H[106m)[m;[?25h[?25l[8;80H[106m))[m[9;1H; [8;80H[?25h[?25l[106m)[m;;[9;1H [8;79H[?25h[?25l[106m)[m;  [9;1H [8;78H[?25h[?25ls[106m)[m;;[9;1H [8;79H[?25h[?25ls[106m))[m[9;1H;[8;80H[?25h[?25l""[9;1H[106m)[m;[?25h[?25l[8;59H([20C""[9;1H)[8;80H[?25h[?25l[106m([myyyy/MM/dd HH:mm:ss"[106m))[m[9;1H; [8;60H[?25h[?25l('yyyy/MM/dd HH:mm:ss""[9;1H);[8;61H[?25hyyyy/MM/dd HH:mm:ss[?25l[8;59H[106m([m[20C""[9;1H[106m)[?25h[?25l[8;80H))[m[9;1H; [8;80H[?25h[?25l[106m)[m;;[9;1H [8;79H[?25h[?25ls[106m))[m[9;1H;[8;80H[?25h[?25l''[9;1H[106m)[m;[?25h[?25l[8;80H[106m))[m[9;1H; [8;80H[?25h[?25l''[9;1H[106m)[m;[?25h[?25l[8;80H[106m))[m[9;1H; [8;80H[?25h[?25l[106m)[m;;[9;1H [8;79H[?25h[?25l[106m)[m;  [9;1H [8;78H[?25h[?25l[8;23r[23;1H
+[1;24r[8;8HDateTimeFormatter dtf = DateTimeFormatter.ofPattern[106m([m'yyyy/MM/dd HH:mm[106m)[m;[23;1H[94m~                                                                               [m[24;11H[1m--a[m[24;13H[K[8;77H[?25h[?25l[106m)[m; [?25h[?25l[106m)[m; [?25h[?25l[106m)[m; [?25h[?25l[106m)[m; [?25h[?25l[106m)[m; [?25h[?25l[106m)[m; [?25h[?25l[106m)[m; [?25h[?25l[106m)[m; [?25h[?25l[106m)[m; [?25h[?25l[106m)[m; [?25h[?25l[106m)[m; [?25h[?25l[106m)[m; [?25h[?25l[106m)[m; [?25h[?25l[106m)[m; [?25h[?25l[106m)[m; [?25h[?25l[106m)[m; [?25h[?25l[106m)[m; [?25h[?25l'[106m)[m;[?25h[?25l'[106m)[m;[?25h[?25l('')[?25h[?25ly');[?25h[?25ly');[?25h[?25ly');[?25h[?25ly');[?25h[?25l/');[?25h[?25lM');[?25h[?25lM');[?25h[?25l/');[?25h[?25ld');[?25h[?25ld');[?25h[?25l ');[?25h[?25lH');[?25h[?25lH');[?25h[?25l:');[?25h[?25l:');[?25h[?25l'); [?25h[?25lM');[?25h[?25l[9;23r[9;1H[L[1;24r[8;76HM');  [9;1H [8;77H[?25h[?25l[8;23r[23;1H
+[1;24r[8;8HDateTimeFormatter dtf = DateTimeFormatter.ofPattern('yyyy/MM/dd HH:M');[23;1H[94m~                                                                               [8;76H[?25h[?25l[m'); [?25h[?25lm');[?25h[?25l[9;23r[9;1H[L[1;24r[8;76Hm');  [9;1H [8;77H[?25h[?25l:');;[9;1H [8;78H[?25h[?25ls'))[9;1H;[8;79H[?25h[?25ls''[9;1H);[8;80H[?25h[?25l'))[9;1H; [8;79H[?25h[?25l');;[9;1H [8;78H[?25h[?25ls'))[9;1H;[8;79H[?25h[?25ls''[9;1H);[8;80H[?25h[?25l'))[9;1H; [8;79H[?25h[?25l[8;59H[106m([20C))[m[9;1H;[8;80H[?25h[?25l[106m))[m[9;1H;[?25h[?25l[8;59H([20C;;[9;1H [8;80H[?25h[?25l[8;59H[106m([20C))[m[9;1H;[?25h[?25l[8;59H([20C))[9;1H;[?25h[?25l[8;59H[106m([20C))[m[9;1H [?25h[?25l[8;59H([20C  [9;1H [8;80H[?25h[?25l[8;23r[23;1H
+[1;24r[8;8HDateTimeFormatter dtf = DateTimeFormatter.ofPattern('yyyy/MM/dd HH:mm:s[23;1H[94m~                                                                               [8;79H[?25h[?25l[9;23r[m[9;1H[L[1;24r[8;79Hs  [9;1H [8;80H[?25h[?25l''[9;1H [?25h[?25l[8;59H[106m([m[20C''[9;1H[106m)[?25h[?25l[m[8;59H([20C''[9;1H);[?25h[?25l[8;59H[106m([m[20C''[9;1H[106m)[m [?25h[?25l[8;59H([20C''[9;1H [?25h[?25l[8;80H  [9;1H [8;80H[?25h[?25l[8;23r[23;1H
+[1;24r[8;8HDateTimeFormatter dtf = DateTimeFormatter.ofPattern('yyyy/MM/dd HH:mm:s[23;1H[94m~                                                                               [8;79H[?25h[?25l[m [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l[?25h[?25l [?25h[?25l[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l[?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25l [?25h[?25lD[?25h[?25la[?25h[?25lt[?25h[?25le[?25h[?25lT[?25h[?25li[?25h[?25lm[?25h[?25le[?25h[?25lF[?25h[?25lo[?25h[?25lr[?25h[?25lm[?25h[?25la[?25h[?25lt[?25h[?25lt[?25h[?25le[?25h[?25lr[?25h[?25l [?25h[?25ld[?25h[?25lt[?25h[?25lf[?25h[?25l [?25h[?25l=[?25h[?25l [?25h[?25lD[?25h[?25la[?25h[?25lt[?25h[?25le[?25h[?25lT[?25h[?25li[?25h[?25lm[?25h[?25le[?25h[?25lF[?25h[?25lo[?25h[?25lr[?25h[?25lm[?25h[?25le[?25h[?25l [?25h[?25la[?25h[?25lt[?25h[?25lt[?25h[?25le[?25h[?25lr[?25h[?25l.[?25h[?25lo[?25h[?25lf[?25h[?25lP[?25h[?25la[?25h[?25lt[?25h[?25lt[?25h[?25le[?25h[?25lr[?25h[?25ln[?25h[?25l([?25h[?25l [?25h[?25l([?25h[?25l"[?25h[?25ly[?25h[?25ly[?25h[?25ly[?25h[?25ly[?25h[?25l/[?25h[?25lM[?25h[?25lM[?25h[?25l/[?25h[?25lD[?25h[?25l [?25h[?25ld[?25h[?25ld[?25h[?25l [?25h[?25lH[?25h[?25lH[?25h[?25l:[?25h[?25lm[?25h[?25lm[?25h[?25l:[?25h[?25ls[?25h[?25l[9;23r[9;1H[L[1;24r[8;79Hs  [9;1H [8;80H[?25h[?25l""[9;1H [?25h[?25l[8;80H  [9;1H [8;80H[?25h[?25l""[9;1H [?25h[?25l[8;80H  [9;1H [8;80H[?25h[?25l''[9;1H [?25h[?25l[8;80H  [9;1H [8;80H[?25h[?25l""[9;1H [?25h[?25l[8;59H[106m([m[20C""[9;1H[106m)[?25h[?25l[m[8;59H([20C""[9;1H);[?25h[10;50H[11;47H[?25l[5;44H[106m{[12;4H}[?25h[?25l[4;25H{[m[5;44H{[12;4H}
+[106m}[?25h[?25l[m[4;25H{[5;44H[106m{[12;4H}[m
+}[12;5H[?25h[24;1H[K[12;4H[?25l[?25h[?25l[24;1H:[?25hwq[?25l[?2004l[>4;m"HelloWorld.java" 13L, 442C written[23;2t[23;1t
+[?2004l[?1l>[?25h[>4;m[?1049l[1m[7m%[27m[1m[0m                                                                                ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/Repo1[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro Repo1 % [K[?2004hggit status[?2004l
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	[32mnew file:   HelloWorld.class[m
+	[32mnew file:   HelloWorld.java[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   HelloWorld.java[m
+
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/Repo1[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro Repo1 % [K[?2004hggit add .[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/Repo1[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro Repo1 % [K[?2004hggit commit i -m "Update HelloWorld.java" -m "prin [Ktting today's date"[?2004l
+[master (root-commit) 5562d58] Update HelloWorld.java
+ 2 files changed, 13 insertions(+)
+ create mode 100644 HelloWorld.class
+ create mode 100644 HelloWorld.java
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/Repo1[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro Repo1 % [K[?2004hggit status[?2004l
+On branch master
+nothing to commit, working tree clean
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/Repo1[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro Repo1 % [K[?2004hccd c  jjavac HelloWorld.jaf c va[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/Repo1[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro Repo1 % [K[?2004hjjsv j java h h HelloWorld. [?2004l
+Hello, World
+Current Date and Time:
+2021/03/22 00:44:44
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/Repo1[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro Repo1 % [K[?2004hccd ~/desjt  ktop/r r RepoMeta[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/RepoMeta[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro RepoMeta % [K[?2004hlls -la[?2004l
+total 0
+drwxr-xr-x@  2 linliyu  staff    64 Mar 22 00:31 .
+drwx------@ 78 linliyu  staff  2496 Mar 22 00:44 ..
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/RepoMeta[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro RepoMeta % [K[?2004hccd d ~/desktop[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro desktop % [K[?2004hlls[?2004l
+2019 Fall
+2020 Fall
+2020 Spring
+2020-11-06 00-47.pdf
+Academic Reason for Extension.docx
+Book1.xlsx
+BrooklynCollegeAttachment_1.sql
+CISC 3810 ASSN3.docx
+CISC 4900
+CISC.3140
+CISC.3320
+CISC.3610
+CISC3230_Final_Exam_Liyu_Lin.pdf
+CISC3810Fall2020FinalExam.docx
+CISC3810Fall20Exam1.docx
+CISC_3230_Assignment_11.docx
+CPT
+CU_R1096A_Fall.pdf
+CU_R1096A_Spring.pdf
+EasyFind Internship
+F-1_Program_extension_form_fillable (1) copy.pdf
+Gaia
+Gaia.zip
+Homework2.zip
+Lab 4.pdf
+Lab4.txt
+LinLiyuTranscript.pdf
+Liu, Xin - resume.pdf
+Liyu_Lin_CISC3810_ASSN3.pdf
+Liyu_Lin_Exam2_CISC3810.docx
+Liyu_Lin_Exam2_CISC3810.pdf
+Liyu_Lin_FinalExam_CISC3810.pdf
+MATH.4701
+Math2201_ProblemSet2_LiyuLin.pdf
+Offer
+Part2.zip
+Permission_and_Profile_ComputerScience.pdf
+QuikPAY(R) Payment Receipt.pdf
+Repo1
+RepoMeta
+RoughDraft_Liyu_Lin_FinalExam_CISC3810.pdf
+SSR_TSRPT.pdf
+Screen Shot 2021-03-02 at 11.56.02 PM.png
+Screen Shot 2021-03-08 at 8.07.53 AM.png
+Screen Shot 2021-03-08 at 8.45.51 AM.png
+Screen Shot 2021-03-08 at 9.06.14 AM.png
+Screen Shot 2021-03-15 at 3.29.27 PM.png
+Skills.txt
+TTP Residency 2020 Summer
+animation
+data visualization
+final_exam.sql
+football.csv
+h2-1.4.200.jar
+hello.cpp
+joins_ex.sql
+main.cpp
+majors.sql
+numbers
+ordpair.cpp
+part2.cpp
+part3.cpp
+phonebook.txt
+portfolio
+session1.log
+startbootstrap-liyu-lin-pages
+swap.cpp
+tennis.csv
+test1.cpp
+~$0M3202FinalExamLiyu.docx
+~$SC 3810 ASSN4.docx
+~$mpleFinal3310.doc
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro desktop % [K[?2004hmmv ~/desktop/ses ssion1.log[1m [0m[0m ~/s deskt                             s
+[Jsession1.log                    swap.cpp
+startbootstrap-liyu-lin-pages/  [A[A[0m[27m[24m[35Cmv s[Kession1.log RepoMeta[1m/[0m[0m /[?2004l
+[J[1m[7m%[27m[1m[0m                                                                                ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro desktop % [K[?2004hccd RepoMeta[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/RepoMeta[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro RepoMeta % [K[?2004hlls -la[?2004l
+total 56
+drwxr-xr-x@  3 linliyu  staff     96 Mar 22 00:49 .
+drwx------@ 77 linliyu  staff   2464 Mar 22 00:49 ..
+-rw-r--r--   1 linliyu  staff  26721 Mar 22 00:48 session1.log
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/RepoMeta[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro RepoMeta % [K[?2004hg
