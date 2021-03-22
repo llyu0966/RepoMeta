@@ -1,13 +1,18 @@
-The beginning of the tasks always is to install the tools properly.
-To log the session: script session.log // the name of log file doesn't necessary be session.log. And enter 'exit' to end the session.log
+The beginning of the tasks is always to install the tools properly.
+To log the session: 'script session.log' // the name of log file doesn't necessary be session.log. 
+To end the session.log: 'exit'
+
 There are two log files in the RepoMeta:
 * session1.log records the VCS practice with Git in the terminal
 * session2.log records the VCS practice with SVN in the terminal
-In my opinion, Git is easier to use than SVN. For example, SVN has insufficient repository management commands. There are some useful Git commands that I used frequently:
-*Clone -> Bring a repository that is hosted somewhere like Github into a folder on your local machine
-*Add -> Track your files and changes in Git
-*Status -> Check your current status for any files and changes in Git
-*Commit -> Save your files in Git
-*Push -> Upload Git commits to a remote repo, like Github
-*Pull -> Download changes from remote repo to your local machine, the opposite of push
+
+In my opinion, Git is easier to use than SVN. For example, SVN has insufficient repository management commands. 
+There are some useful Git commands that I used frequently:
+1. clone -> Bring a repository that is hosted somewhere like Github into a folder on your local machine
+2. add -> Track your files and changes in Git
+3. status -> Check your current status for any files and changes in Git
+4. commit -> Save your files in Git
+5. push -> Upload Git commits to a remote repo, like Github
+6. pull -> Download changes from remote repo to your local machine, the opposite of push
+
 In addition, Git has a faster operation speed comparing to SVN. However, SVN provides a good documentation that covers documentation for developers as well as administrators, and it's very stable and used by most developer. Both of Git and SVN are free.
