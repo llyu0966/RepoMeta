@@ -181,4 +181,51 @@ total 56
 drwxr-xr-x@  3 linliyu  staff     96 Mar 22 00:49 .
 drwx------@ 77 linliyu  staff   2464 Mar 22 00:49 ..
 -rw-r--r--   1 linliyu  staff  26721 Mar 22 00:48 session1.log
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/RepoMeta[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro RepoMeta % [K[?2004hg
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/RepoMeta[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro RepoMeta % [K[?2004hggit int it[?2004l
+[33mhint: Using 'master' as the name for the initial branch. This default branch name[m
+[33mhint: is subject to change. To configure the initial branch name to use in all[m
+[33mhint: of your new repositories, which will suppress this warning, call:[m
+[33mhint: [m
+[33mhint: 	git config --global init.defaultBranch <name>[m
+[33mhint: [m
+[33mhint: Names commonly chosen instead of 'master' are 'main', 'trunk' and[m
+[33mhint: 'development'. The just-created branch can be renamed via this command:[m
+[33mhint: [m
+[33mhint: 	git branch -m <name>[m
+Initialized empty Git repository in /Users/linliyu/Desktop/RepoMeta/.git/
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/RepoMeta[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro RepoMeta % [K[?2004hggit status[?2004l
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31msession1.log[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/RepoMeta[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro RepoMeta % [K[?2004hggit add .[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/RepoMeta[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro RepoMeta % [K[?2004hggit statue s[?2004l
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	[32mnew file:   session1.log[m
+
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/RepoMeta[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro RepoMeta % [K[?2004hggit commit -m "Added log file"[?2004l
+[master (root-commit) b349b8a] Added log file
+ 1 file changed, 184 insertions(+)
+ create mode 100644 session1.log
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/RepoMeta[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro RepoMeta % [K[?2004h[7mgit remote add origin https://github.com/lly[7mu[7m0966/RepoMeta.git[27m[K[A[18C[27mg[27mi[27mt[27m [27mr[27me[27mm[27mo[27mt[27me[27m [27ma[27md[27md[27m [27mo[27mr[27mi[27mg[27mi[27mn[27m [27mh[27mt[27mt[27mp[27ms[27m:[27m/[27m/[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mc[27mo[27mm[27m/[27ml[27ml[27myu[27m0[27m9[27m6[27m6[27m/[27mR[27me[27mp[27mo[27mM[27me[27mt[27ma[27m.[27mg[27mi[27mt[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/RepoMeta[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro RepoMeta % [K[?2004hggit remote[?2004l
+origin
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/RepoMeta[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro RepoMeta % [K[?2004h[7mgit push -u origin main[27m[23D[27mg[27mi[27mt[27m [27mp[27mu[27ms[27mh[27m [27m-[27mu[27m [27mo[27mr[27mi[27mg[27mi[27mn[27m [27mm[27ma[27mi[27mn[?2004l
+error: src refspec main does not match any
+[31merror: failed to push some refs to 'https://github.com/llyu0966/RepoMeta.git'
+[m[1m[7m%[27m[1m[0m                                                                                ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/RepoMeta[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro RepoMeta % [K[?2004hgit push -u origin main -f[?2004l
+error: src refspec main does not match any
+[31merror: failed to push some refs to 'https://github.com/llyu0966/RepoMeta.git'
+[m[1m[7m%[27m[1m[0m                                                                                ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/RepoMeta[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro RepoMeta % [K[?2004hgit push -u origin main -f  [19Dremote             [13D add origin https://github.com/llyu0966/RepoMeta.git[K[?2004l
+error: remote origin already exists.
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/RepoMeta[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro RepoMeta % [K[?2004hgit remote add origin https://github.com/llyu0966/RepoMeta.git[K[A[22Cpush -u origin main -f[K[1B[K[A[62C  [19Dremote             [13D add origin https://github.com/llyu0966/RepoMeta.git[K[A[22Ccommit -m "Added log file"[K[1B[K[A[66C[26Dremote add origin https://github.com/llyu0966/RepoMeta.git[K[A[29C[K[1B[K[A[46Cpush -u origin main -f[22Dremote add origin https://github.com/llyu0966/RepoMeta.git[K[A[18C[K[1B[K[A[36Cgit remote add origin https://github.com/llyu0966/RepoMeta.git[K[A[22Cpush -u origin main -f[K[1B[K[A[62C  [19Dremote             [13D add origin https://github.com/llyu0966/RepoMeta.git[Kq [A[22Ccommit -m "Added log file"[K[1B[K[A[66C[26Dstatus                    [20Dadd . statusinit  [8Dls -la  cd RepoMeta[11Dmv session1.log RepoMeta/                     m  [?2004l[1B[1m[7m%[27m[1m[0m                                                                                ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/RepoMeta[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro RepoMeta % [K[?2004h
